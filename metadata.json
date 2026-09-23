@@ -1,0 +1,6 @@
+{
+  "name": "UpScale Decor",
+  "description": "Luxury Solid Wood & Epoxy Furniture, Custom Dining Tables, Mirrors, and Interior Craftsmanship in Uttara, Dhaka, Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
