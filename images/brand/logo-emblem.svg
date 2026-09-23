@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" rx="115" fill="#181310" />
+  <g transform="translate(56, 18) scale(0.78)">
+    <!-- Left Half: Dark Charcoal/Black -->
+    <path fill="#2E2824" d="M 256 70 A 180 180 0 0 0 256 430 Z" />
+    <!-- Right Half: Deep Crimson Red -->
+    <path fill="#9A1A1E" d="M 256 70 A 180 180 0 0 1 256 430 Z" />
+
+    <!-- U Letter -->
+    <path fill="#FFFFFF" d="M 125 120 L 175 120 L 175 270 C 175 305 190 320 220 320 C 245 320 256 310 256 290 L 256 120 L 265 120 L 265 295 C 265 345 235 375 195 375 C 145 375 125 335 125 270 Z" />
+
+    <!-- P Letter -->
+    <path fill="#FFFFFF" d="M 256 120 L 340 120 C 385 120 415 145 415 200 C 415 250 385 275 340 275 L 305 275 L 305 440 L 256 390 L 256 120 Z M 305 168 L 305 228 L 335 228 C 355 228 365 218 365 200 C 365 180 355 168 335 168 Z" />
+
+    <!-- Roof & Orange Accent -->
+    <polygon fill="#EE5C23" points="155,470 190,430 260,360 235,335 170,400 130,440" />
+    <path fill="#FFF9EE" d="M 90 480 L 130 480 L 205 405 L 256 355 L 330 425 L 390 480 L 430 480 L 430 492 L 380 492 L 330 442 L 256 375 L 195 435 L 140 492 L 90 492 Z" />
+  </g>
+</svg>
